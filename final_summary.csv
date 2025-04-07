@@ -1,0 +1,8 @@
+test_#,tick_of_first_suspicious,tick_of_first_confirmed,total_confirmed_by_tick_100,malicious_threshold,ids_agent_count,tick_of_first_suspicious_manual,tick_of_first_confirmed_manual,total_confirmed_by_tick_100_manual,notes
+1,14,2,5,3,3,0,2,5,
+2,58,2,2,4,3,0,2,2,
+3,7,4,14,3,5,0,4,14,this was the one that was able to confirm the most
+4,1,2,11,2,8,0,2,11,this test during the simulation flunctuated with a high of 16 between 17 and 22 ticks 
+5,1,4,14,2,3,0,4,14,
+6,22,1,7,4,5,0,1,7,
+7,8,1,12,3,8,0,1,12,

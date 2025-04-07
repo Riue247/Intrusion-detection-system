@@ -1,0 +1,8 @@
+﻿test#,Malicious Threshold,IDS Agent Count,Tick of the First suspicious ,Tick of First confirmed,Total Confirmed by Tick 100 ,Notes
+1,3,3,0,2,5,
+2,4,3,0,2,2,
+3,3,5,0,4,14,this was the one that was able to confirm the most
+4,2,8,0,2,11,this test during the simulation flunctuated with a high of 16 between 17 and 22 ticks 
+5,2,3,0,4,14,
+6,4,5,0,1,7,
+7,3,8,0,1,12,
